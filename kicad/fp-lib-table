@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MotorPoint)(type KiCad)(uri "$(KIPRJMOD)\\lib\\MotorPoint.pretty")(options "")(descr ""))
+)
