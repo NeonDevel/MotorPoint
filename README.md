@@ -1,12 +1,12 @@
 # MotorPoint
 
-Electronic project of simple **[DCC](https://en.wikipedia.org/wiki/Digital_Command_Control) Accessory decoder** for motor controlled point.
+DIY project of simple **[DCC](https://en.wikipedia.org/wiki/Digital_Command_Control) Accessory decoder** for motor controlled point.
 
 This project is based on [ServoPoint by Paco Cańada](http://usuaris.tinet.cat/fmco/home_en.htm)
 
-> Platform:  Microchip PIC12F675
-> Software Tools: MPLAB X IDE (mpasmx)
-> EDA software: KiCad
+* Platform:  Microchip PIC12F675
+* Software Tools: MPLAB X IDE (mpasmx)
+* EDA software: KiCad
 
 # Project Details
 
